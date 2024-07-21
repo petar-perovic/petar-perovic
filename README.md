@@ -5,7 +5,7 @@ I'm a computer science student from Montenegro. So far, I have gained knowledge 
 - :school: I'm studying computer science and information technology at the [University of Montenegro School of Science and Mathematics](https://www.ucg.ac.me/pmf)
 
 - ⚡: In my free time, I am working on some projecs and playing basketball 🏀
--   
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Petar_Perovic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/petar-perovic-891854170/)   [![Gmail Badge](https://img.shields.io/badge/-petarperovic2002@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](mailto:petarperovic2002@gmail.com)
 
 ---
