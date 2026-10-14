@@ -35,6 +35,9 @@ I'm a computer science student from Montenegro. So far, I have gained knowledge 
 
 ### 📊 Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=petar-perovic&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/petar-perovic?cardType=level&theme=tokyonight&preferLogin=true&Background=1A1B27&Text=36B1A4&Title=6EA2F8&Border=9C9CA0&Ring=6EA2F8)](https://git.io/awesome-stats-card)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petar-perovic&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
